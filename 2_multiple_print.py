@@ -1,0 +1,1 @@
+print('vishnu'); print("anna"); print("""khuspe""")
