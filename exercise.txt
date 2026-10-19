@@ -92,9 +92,9 @@ nested decision making
 2) write a program to accept 3 color value from user for red, green & blue 
 if the range of each and every color is in between 0 to 255. display message it is valid color otherwise display message it is not valid color 
 
-make sure input must be in range of 1 to 12. in case other input display message invalid month number. 
 
 loop 
+
 1) 50 49 48 ...... 1
 2) 2 4 6 8 10 ...... 200
 3) 5 10 15 20 25 ..... 500
@@ -102,10 +102,10 @@ loop
 5) 1 4 9 16 25 36  ..... 1000
 6) 1 8 27 64 ...... 10000
 
-8) write a program to findout  sum of all the even numbers between given start and stop value 
 
-9) write a program to calculate compound interest of given amount, rate, year. 
+7) write a program to findout  sum of all the even numbers between given start and stop value 
 
+8) write a program to calculate compound interest of given amount, rate, year. 
 
 9) write a program to findout whether given number is perfect number or not. these are sum perfect number 
 
