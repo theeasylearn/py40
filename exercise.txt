@@ -98,7 +98,7 @@ loop
 1) 50 49 48 ...... 1
 2) 2 4 6 8 10 ...... 200
 3) 5 10 15 20 25 ..... 500
-4) 1 2 4 7 11 16 ..... 100
+4) 1 2 4 7 11 16 ..... 100 
 5) 1 4 9 16 25 36  ..... 1000
 6) 1 8 27 64 ...... 10000
 
@@ -123,6 +123,14 @@ process
 
 for loop 
 --------------------------------
+write a program to convert all negative values in list as positive value in other list. keep positive values in list as it is 
+
+write a program to count no of vowels and consonant in given string using for loop 
+
+write a program to findout which player has scored maximum and minimum run from data stored in dictionary using for loop 
+
+
+
 10 x 10 = 100
 10 x 09 = 90
 ....
