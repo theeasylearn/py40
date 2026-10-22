@@ -14,4 +14,3 @@ for row in range (5,0,-1): # 5 times  outer loop
     for astrik in range(0,6-row):
         print("* ",end=' ')
     print("")
-
